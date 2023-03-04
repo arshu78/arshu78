@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arshad Shirgave</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&pause=1000&color=0AC2F7&background=1EFF7D00&center=true&vCenter=true&width=435&lines=Android+Developer;FrontEnd+Developer;Problem+Solver" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&pause=1000&color=0AC2F7&background=1EFF7D00&center=true&hCenter=true&width=435&lines=Android+Developer;FrontEnd+Developer;Problem+Solver" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshu78&label=Profile%20views&color=0e75b6&style=flat" alt="arshu78" /> </p>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
