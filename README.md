@@ -2,7 +2,7 @@
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&pause=1000&color=0AC2F7&background=1EFF7D00&center=true&hCenter=true&width=935&lines=Android+Developer;FrontEnd+Developer;Problem+Solver" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshu78&label=Profile%20views&color=0e75b6&style=flat" alt="arshu78" /> </p>
-<a href="https://ibb.co/RhNBF77"><img src="https://i.ibb.co/DGY8JLL/lamp-shift.gif" alt="lamp-shift" border="0"></a>
+<a href="https://ibb.co/RhNBF77"><img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/productive.gif" alt="lamp-shift" border="0"></a>
 
 - 🌱 I’m currently learning **Flutter**
 
