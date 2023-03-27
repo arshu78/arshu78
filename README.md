@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Arshad Shirgave</h1>
+![Header](https://user-images.githubusercontent.com/97735833/227926399-637ee2c6-dc8b-43c7-902c-5a62a6b52c6c.png)
+<p style="margin-left: 2.5em;padding: 0 7em 2em 0;border-width: 2px; border-color: black; border-style:solid;"></p>
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&pause=1000&color=0AC2F7&background=1EFF7D00&center=true&hCenter=true&width=935&lines=Android+Developer;FrontEnd+Developer;Problem+Solver" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshu78&label=Profile%20views&color=0e75b6&style=flat" alt="arshu78" /> </p>
-<a href="https://ibb.co/RhNBF77"><img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/productive.gif" alt="lamp-shift" border="0"></a>
+
 
 - 🌱 I’m currently learning **Flutter**
 
