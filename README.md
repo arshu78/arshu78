@@ -28,7 +28,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arshu78&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arshu78&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
+[![Leetcode Stats](https://leetcard.jacoblin.cool/arshadshirgave18?ext=heatmap)]
 
 
 [![Arshad github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=arshu78&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
