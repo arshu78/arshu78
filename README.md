@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshu78&label=Profile%20views&color=0e75b6&style=flat" alt="arshu78" /> </p>
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **Android Development, FrontEnd Development or Problem Solving**
 
